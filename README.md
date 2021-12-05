@@ -1,4 +1,4 @@
-# ParNet
+# ParNet-Pytorch
 基于pytorch复现的适用于yolo目标检测backbone的parnet[1]网络，保留了卷积部分，并且引入yolo中的SPP模块\
 引出三路输出并将其通道数调整为256,512,1024，可直接与YOLO的PanFPN连接\
 环境：\
