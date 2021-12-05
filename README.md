@@ -4,5 +4,5 @@
 环境：\
 pytorch==1.8\
 tensorboard（如果不需要可视化，不需要安装，清除main中调用即可）\
-官方代码：https://github.com/imankgoyal/NonDeepNetworks\
+官方代码：https://github.com/imankgoyal/NonDeepNetworks \
 [1]Goyal, Ankit, Alexey Bochkovskiy, Jia Deng and Vladlen Koltun. “Non-deep Networks.” ArXiv abs/2110.07641 (2021): n. pag.\
