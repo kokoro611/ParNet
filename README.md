@@ -9,5 +9,6 @@ tensorboard（如果不需要可视化，不需要安装，清除main中调用�
 YOLOX； ParNet=s ；NVIDIA 3080ti ；forward time 253.24ms\
                     darknetnet53 ；forward time 5.68ms\
 注：不要因为看着层数少就认为计算量少，这计算量 完全就是大力出奇迹，2021年12月6号的凌晨，大半夜的给我搞破防了\
+有参考https://github.com/Pritam-N/ParNet 的部分逻辑，但代码整体还是自己的风格
 官方代码：https://github.com/imankgoyal/NonDeepNetworks \
 [1]Goyal, Ankit, Alexey Bochkovskiy, Jia Deng and Vladlen Koltun. “Non-deep Networks.” ArXiv abs/2110.07641 (2021): n. pag.
